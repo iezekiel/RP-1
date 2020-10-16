@@ -41,4 +41,5 @@ I keep different mission profiles for usage on multiple rockets instead of using
 A typical mission file contains the variables for the mission and the scripts that need to be used. For example the First Orbital Rocket sets the orbit and rocket parameters and executes the LaunchProgradeHB.ks script on lib folder. Folder lib contains the logic for each action you want to execute and helper functions. Sub folder contains sub-missions that are part of a mission, for example the retro routine of a manned orbital spacecraft.
 
 **Hey I recognise that code block**
+
 A lot of the code is a mesh of other scripts found online, snippets from forums and code written by me. While I am trying to give credit to the original authors in some cases that's not possible. If you think that you should be credited please contact me.
