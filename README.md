@@ -18,7 +18,7 @@ Generally I exercise the [KISS](https://en.wikipedia.org/wiki/KISS_principle) pr
 
 All KOS scripts are stored on /Ship/Script folder, four main folders (boot, lib, missions, sub) keep scripts tidy.
 
-![G1](https://github.com/iezekiel/RP-1/blob/main/G1.png?raw=true)
+![G1](https://raw.githubusercontent.com/iezekiel/RP-1/main/images/G1.png?raw=true)
 
 On every rocket the root part is configured to use the RP1.ks file from boot folder. RP1.ks initialises the terminal window and loads the mission file, the mission file is set on the Change Name Tag (CORE:TAG) again on the root part. Every mission is stored on the missions folder.
 
